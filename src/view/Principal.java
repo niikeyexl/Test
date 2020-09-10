@@ -11,6 +11,7 @@ public class Principal {
 		Op.bufferCon();
 		Op.fraseDiv1(frase);
 		Op.fraseDiv2(frase);
+		String test = "isso é um teste";
 	}
 
 }
